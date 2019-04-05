@@ -14,7 +14,7 @@ class ScoreBoard extends Component {
 
                 <button className="score-board-button" onClick={(e) => {
 
-                }}>Restast</button>
+                }}>Restart</button>
             </div>
         )
     }
